@@ -18,6 +18,7 @@ textarea {
   position: relative;
   top: 18px;
   left: 10px;
+    padding-bottom: 10%;
 }
 
 .box {
