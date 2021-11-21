@@ -6,6 +6,6 @@ You can visit the [Demo Website](https://kunalmehta99.github.io/industrial_train
 
 **Notes**
 Applications of Huffman Coding:
-*They are used for transmitting fax and text.
-*They are used by conventional compression formats like PKZIP, GZIP, etc.
-*It is useful in cases where there is a series of frequently occurring characters.
+1. They are used for transmitting fax and text.    
+2. They are used by conventional compression formats like PKZIP, GZIP, etc.    
+3. It is useful in cases where there is a series of frequently occurring characters.    
